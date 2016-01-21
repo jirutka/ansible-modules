@@ -12,6 +12,9 @@ I was contributing to Ansible earlier, but not anymore.
 link:library/database/ldap.py[ldap]::
   This module adds, modifies and removes entries in LDAP server, similarly as `ldapmodify` command.
 
+link:library/database/mongodb_replset.py[mongodb_replset]::
+  This module allows to initiate a new replica set or add new members to an existing one.
+  It can’t remove members from a replica set, this should be always done with caution by hand.
 
 == License
 
