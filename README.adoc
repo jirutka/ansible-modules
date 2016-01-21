@@ -27,6 +27,9 @@ link:library/packaging/mvn_get.py[mvn_get]::
   Resolves version of the artifact, but does _not_ resolve its dependencies.
   It’s intended just for fetching single artifact from repository, nothing more.
 
+link:library/system/nameservers_facts.py[nameservers_facts]::
+  Collects nameservers from /etc/resolv.conf as facts.
+
 link:library/database/postgresql_exec.py[postgresql_exec]::
   This module is intended for initializing database schema and maybe populating with some seed data from a SQL script.
   However, it can be used to execute any SQL commands.
