@@ -9,6 +9,9 @@ I was contributing to Ansible earlier, but not anymore.
 
 == List of Modules
 
+link:library/system/eselect.py[eselect]::
+  Module for Gentoo’s multi-purpose configuration and management tool eselect.
+
 link:library/database/ldap.py[ldap]::
   This module adds, modifies and removes entries in LDAP server, similarly as `ldapmodify` command.
 
