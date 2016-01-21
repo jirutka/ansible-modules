@@ -1,0 +1,18 @@
+= Ansible Modules
+
+This repository contains some Ansible modules that I wrote earlier.
+
+If you like some module and you want to merge it into the upstream, then feel free to do it.
+But please, do not make me involved.
+I was contributing to Ansible earlier, but not anymore.
+
+
+== Modules
+
+TBD
+
+
+== License
+
+All modules are licensed under https://www.gnu.org/copyleft/gpl-3.0.html[GPLv3].
+For the full text of the license, see the link:LICENSE[LICENSE] file.
