@@ -7,9 +7,10 @@ But please, do not make me involved.
 I was contributing to Ansible earlier, but not anymore.
 
 
-== Modules
+== List of Modules
 
-TBD
+link:library/database/ldap.py[ldap]::
+  This module adds, modifies and removes entries in LDAP server, similarly as `ldapmodify` command.
 
 
 == License
