@@ -15,6 +15,9 @@ link:library/system/eselect.py[eselect]::
 link:library/database/ldap.py[ldap]::
   This module adds, modifies and removes entries in LDAP server, similarly as `ldapmodify` command.
 
+link:library/files/mktemp_dir[mktemp_dir]::
+  Very simple module that creates a temporary directory on the remote server and returns its path.
+
 link:library/database/mongodb_replset.py[mongodb_replset]::
   This module allows to initiate a new replica set or add new members to an existing one.
   It can’t remove members from a replica set, this should be always done with caution by hand.
