@@ -15,6 +15,9 @@ link:library/system/eselect.py[eselect]::
 link:library/database/ldap.py[ldap]::
   This module adds, modifies and removes entries in LDAP server, similarly as `ldapmodify` command.
 
+link:library/database/ldap_passwd.py[ldap_passwd]::
+  This module modifies password of an LDAP or Active Directory user.
+
 link:library/files/mktemp_dir[mktemp_dir]::
   Very simple module that creates a temporary directory on the remote server and returns its path.
 
